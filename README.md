@@ -1,5 +1,6 @@
 # ⭐ EEG-Based Emotion Classifier ⭐
 
+![image](https://github.com/Dhanushdev01/EEG-Driven-Emotion-Detection-and-Classification/assets/111741384/abb61f67-a439-4cd9-b11f-3795300f00c7)
 
 GitHub stars GitHub forks
 
